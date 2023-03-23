@@ -1,1 +1,1 @@
-This about Debbugging on AlX
+This is about ALX Debugging
