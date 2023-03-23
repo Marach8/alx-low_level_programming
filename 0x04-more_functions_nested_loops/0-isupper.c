@@ -1,8 +1,9 @@
 #include "main.h"
 /**
+ * _isupper - Entry point
  * _isupper - checks if a letter is upper
  * @c: The letter to be checked
- * Return 1 for upper letter or 0 for any else
+ * Return: 1 for upper letter or 0 for any else
 */
 int _isupper(int c)
 {
@@ -10,5 +11,8 @@ int _isupper(int c)
 	{
 		return (1);
 	}
+	else
+		return (0);
 	return (0);
+
 }
