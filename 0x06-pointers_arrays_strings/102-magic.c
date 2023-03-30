@@ -1,4 +1,10 @@
 #include <stdio.h>
+/**
+ * This is about a little function
+ * It does not do that anyway
+ * well, it is okay
+ * Return 0 for Success
+*/
 int main(void)
 {
 	int n;
