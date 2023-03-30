@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * This is about a little function
- * It does not do that anyway
- * well, it is okay
- * Return 0 for Success
+ * main - Entry point
+ * @n prints a[2] = 98=
+ * Return: Always 0 (Succes)
 */
 int main(void)
 {
