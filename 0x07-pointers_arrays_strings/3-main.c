@@ -3,6 +3,7 @@
 
 /**
  * main - check the code for  this taays 0.
+ * Return: Always 0 for Success
  */
 int main(void)
 {
@@ -13,5 +14,8 @@ int main(void)
 
 	n = _strspn(s, f);
 
-    printf("%u\n", n);
-    return (0);
+	printf("%u\n", n);
+
+
+	return (0);
+}
